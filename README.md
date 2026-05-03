@@ -1,4 +1,4 @@
-# Claude Code Haha
+# OpenClaude-OS
 
 <p align="center">
   <img src="docs/images/app-icon.png" alt="Claude Code Haha" width="240">
