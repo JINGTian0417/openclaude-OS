@@ -27,7 +27,7 @@
 
 ## 桌面端预览
 
-Claude Code Haha 的桌面端把会话、多项目、代码 Diff、权限确认、提供商配置、定时任务和 IM 适配器集中到一个图形化工作台里，适合不想长期停留在终端里的日常开发工作流。
+OpenClaude-OS 的桌面端把会话、多项目、代码 Diff、权限确认、提供商配置、定时任务和 IM 适配器集中到一个图形化工作台里，适合不想长期停留在终端里的日常开发工作流。
 
 <p align="center">
   <a href="https://github.com/NanmiCoder/cc-haha/releases"><img src="https://img.shields.io/badge/⬇_下载桌面端-macOS_%7C_Windows-D97757?style=for-the-badge" alt="下载桌面端"></a>
