@@ -279,7 +279,7 @@ http://127.0.0.1:2024
 
 ## ⭐ Star 趋势图
 
-如果这个项目对您有帮助，请给个 ⭐ Star 支持一下，让更多的人看到 Claude Code Haha！
+如果这个项目对您有帮助，请给个 ⭐ Star 支持一下，让更多的人看到！
 
 <a href="https://www.star-history.com/#NanmiCoder/cc-haha&Date">
   <picture>
